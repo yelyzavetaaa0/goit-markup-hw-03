@@ -3,7 +3,7 @@
   background: #2e2f42;
 }
 
-.footer .container {
+.footer-container {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
